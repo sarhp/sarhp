@@ -9,7 +9,10 @@ Feel free to check out my Data Analytics/Visualisation and Data Science projects
 
 #### Tools I used for my projects:
 
-<img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png" width="60"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="60"> <img src="https://www.r-project.org/logo/Rlogo.svg" height="30"> <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width="75">
+- Power BI
+- Python
+- MySQL
+- R
 
 <br>
 
