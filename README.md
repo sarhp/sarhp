@@ -24,5 +24,4 @@ Feel free to check out my Data Analytics/Visualisation and Data Science projects
 
 [![Sarah Park](https://img.shields.io/badge/SarahPark-yellow?style=flat&logo=wordpress&link=https%3A%2F%2Fsarahparkprojects.wordpress.com)](https://sarahparkprojects.wordpress.com)
 ![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsarahparknz)
-[![Github](https://img.shields.io/badge/github-black?style=flat&logo=github&link=https%3A%2F%2Fgithub.com%2FPixieParksie)](https://github.com/PixieParksie)
 
