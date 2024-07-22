@@ -15,11 +15,11 @@ Tools used for my data portfolio are:
 
 #dataanalytics #datascience #insights
 
-<br>
+<br><br>
 
-## You can also find me at my portfolio website:
+You can also find me at my portfolio website below: 
 
 [![Sarah Park](https://img.shields.io/badge/SarahPark-yellow?style=flat&logo=wordpress&link=https%3A%2F%2Fsarhp.wordpress.com)](https://sarhp.wordpress.com)
 
-More user-friendly as images/contents are consolidated into a single page
+Website can be more user-friendly as images/contents are consolidated into a single page.
 
