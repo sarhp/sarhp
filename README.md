@@ -4,7 +4,7 @@
 
 <br>
 
-Tools used for my data portfolio are:
+Tools used for my data portfolio:
 - Power BI
 - R
 - SQL (mySQL)
