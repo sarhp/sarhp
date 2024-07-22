@@ -1,27 +1,25 @@
-# Hello and Welcome
+## Hello and Welcome
+
+⚠️More repositories to be uploaded⚠️
 
 <br>
 
-Feel free to check out my Data Analytics/Visualisation and Data Science projects from both uni and my personal endeavors :)
-
-
----
-
-#### Tools I used for my projects:
-
+Tools used for my data portfolio are:
 - Power BI
-- Python
-- MySQL
 - R
+- SQL (mySQL)
+- Python
+- Excel 
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahparkprojects&layout=compact)](https://github.com/sarahparkprojects/github-readme-stats)
+#dataanalytics #datascience #insights
 
----
+<br>
 
-#### You can also find me at:
+## You can also find me at my portfolio website:
 
-[![Sarah Park](https://img.shields.io/badge/SarahPark-yellow?style=flat&logo=wordpress&link=https%3A%2F%2Fsarahparkprojects.wordpress.com)](https://sarahparkprojects.wordpress.com)
-![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsarahparknz)
+[![Sarah Park](https://img.shields.io/badge/SarahPark-yellow?style=flat&logo=wordpress&link=https%3A%2F%2Fsarhp.wordpress.com)](https://sarhp.wordpress.com)
+
+More user-friendly as images/contents are consolidated into a single page
 
