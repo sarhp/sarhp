@@ -14,7 +14,7 @@ My portfolio includes projects I completed as part of your university coursework
 | R              | [Forest Fires Analysis](https://github.com/sarhp/R__ForestFiresAnalysis)                                         | Data Analysis    | Independent   | ★★★★        |
 | SQL (MySQL)    | Blank (coming soon)                                                                                              | -           | -        | -       |
 | Python         | [Enhancing Coupon Recommendation System](https://github.com/sarhp/Python__EnhancingCouponRecommendationSystem)   | Data Science     | Academic      | ★★★★✰        |
-|                | [Sentimental Analysis](https://github.com/sarhp/Python__TextMiningProject)                                       | Data Mining      | Academic      | ★★★         |
+|                | [Sentimental Analysis](https://github.com/sarhp/Python__TextMiningProject)                                       | Data/Text Mining      | Academic      | ★★★         |
 |                | [Nature Inspired Algorithms](https://github.com/sarhp/Python__NatureInspiredAlgorithms)                          | Algorithm Analysis | Academic    | ★           |
 | Excel          | Blank (coming soon)                                                                                              | -           | -        | -       |
 
