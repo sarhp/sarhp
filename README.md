@@ -1,20 +1,22 @@
 ## Hello and Welcome
 
+I'm Sarah, specialising in Data Analytics. 
 
+My portfolio includes projects I completed as part of your university coursework and those I undertook on my own initiative. 
 
-<br>
+<br><br>
 
-📚 Project library (link provided):
+📚 Project library (repository links provided):
 
-| Tool           | Project Name                                                                                                     | Project Type          |
-|----------------|------------------------------------------------------------------------------------------------------------------|---------------|
-| Power BI       | [Fraud Insights](https://github.com/sarhp/PowerBI__FraudAnalysis)                                                | Data Analysis |
-| R              | [Forest fires Analysis](https://github.com/sarhp/R__ForestFiresAnalysis)                                         | Data Analysis |
-| SQL (mySQL)    | blank (coming soon)                                                                                                 | blank  |
-| Python         | [Enhancing Coupon Recommendation System](https://github.com/sarhp/Python__EnhancingCouponRecommendationSystem)   | Data Science (& some analysis) |
-|                | [Sentimental Analysis](https://github.com/sarhp/Python__TextMiningProject)                                       | Data Mining   |
-|                | [Nature Inspired Algorithms](https://github.com/sarhp/Python__NatureInspiredAlgorithms)                          | Algorithm Analysis |
-| Excel          | blank (coming soon)                                                                                                | blank |
+| Tool           | Project Name                                                                                                     | Category        | Project Type | Significance |
+|----------------|------------------------------------------------------------------------------------------------------------------|-----------------|--------------|-------------|
+| Power BI       | [Fraud Insights](https://github.com/sarhp/PowerBI__FraudAnalysis)                                                | Data Analysis    | Independent   | ★★★★★        |
+| R              | [Forest Fires Analysis](https://github.com/sarhp/R__ForestFiresAnalysis)                                         | Data Analysis    | Independent   | ★★★★        |
+| SQL (MySQL)    | Blank (coming soon)                                                                                              | -           | -        | -       |
+| Python         | [Enhancing Coupon Recommendation System](https://github.com/sarhp/Python__EnhancingCouponRecommendationSystem)   | Data Science     | Academic      | ★★★★✰        |
+|                | [Sentimental Analysis](https://github.com/sarhp/Python__TextMiningProject)                                       | Data Mining      | Academic      | ★★★         |
+|                | [Nature Inspired Algorithms](https://github.com/sarhp/Python__NatureInspiredAlgorithms)                          | Algorithm Analysis | Academic    | ★           |
+| Excel          | Blank (coming soon)                                                                                              | -           | -        | -       |
 
 <br>
 <br>
