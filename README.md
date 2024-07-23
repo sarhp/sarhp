@@ -11,7 +11,7 @@
 | Power BI       | [Fraud Insights](https://github.com/sarhp/PowerBI__FraudAnalysis)                                                | Data Analysis |
 | R              | [Forest fires Analysis](https://github.com/sarhp/R__ForestFiresAnalysis)                                         | Data Analysis |
 | SQL (mySQL)    | blank (coming soon)                                                                                                 | blank  |
-| Python         | [Enhancing Coupon Recommendation System](https://github.com/sarhp/Python__EnhancingCouponRecommendationSystem)   | Data Science  |
+| Python         | [Enhancing Coupon Recommendation System](https://github.com/sarhp/Python__EnhancingCouponRecommendationSystem)   | Data Science (& some analysis) |
 |                | [Sentimental Analysis](https://github.com/sarhp/Python__TextMiningProject)                                       | Data Mining   |
 |                | [Nature Inspired Algorithms](https://github.com/sarhp/Python__NatureInspiredAlgorithms)                          | Algorithm Analysis |
 | Excel          | blank (coming soon)                                                                                                | blank |
