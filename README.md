@@ -6,27 +6,23 @@ My portfolio includes projects I completed as part of my university coursework a
 
 <br><br>
 
-📚 Project library (Repository Links are provided for your convenience):
+📚 Project library (Repository links are provided for your convenience):
 
 | Tool           | Project Name                                                                                                     | Category        | Project Type | Significance |
 |----------------|------------------------------------------------------------------------------------------------------------------|-----------------|--------------|-------------|
 | Power BI       | [Fraud Insights](https://github.com/sarhp/PowerBI__FraudAnalysis)                                                | Data Analysis    | Independent   | ★★★★★        |
-|                | Blank (coming soon)                                                                                              | -           | -        | -       |
-|                | Blank (coming soon)                                                                                              | -           | -        | -       |
+|                | ⚠️ Coming Soon                                                                                              | -           | -        | -       |
+|                | ⚠️ Coming Soon                                                                                              | -           | -        | -       |
 | R              | [Forest Fires Analysis](https://github.com/sarhp/R__ForestFiresAnalysis)                                         | Data Analysis    | Independent   | ★★★★        |
-| SQL (MySQL)    | Blank (coming soon)                                                                                              | -           | -        | -       |
+| SQL (MySQL)    | ⚠️ Coming Soon                                                                                              | -           | -        | -       |
 | Python         | [Enhancing Coupon Recommendation System](https://github.com/sarhp/Python__EnhancingCouponRecommendationSystem)   | Data Science     | Academic      | ★★★★✰        |
 |                | [Sentimental Analysis](https://github.com/sarhp/Python__TextMiningProject)                                       | Data/Text Mining      | Academic      | ★★★         |
 |                | [Nature Inspired Algorithms](https://github.com/sarhp/Python__NatureInspiredAlgorithms)                          | Algorithm Analysis | Academic    | ★           |
-| Excel          | Blank (coming soon)                                                                                              | -           | -        | -       |
+| Excel          | ⚠️ Coming Soon                                                                                              | -           | -        | -       |
 
 <br>
 <br>
 
-⚠️More repositories to be uploaded
-
-<br>
-<br>
 
 You can also find me at: 
 
