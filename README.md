@@ -11,6 +11,8 @@ My portfolio includes projects I completed as part of my university coursework a
 | Tool           | Project Name                                                                                                     | Category        | Project Type | Significance |
 |----------------|------------------------------------------------------------------------------------------------------------------|-----------------|--------------|-------------|
 | Power BI       | [Fraud Insights](https://github.com/sarhp/PowerBI__FraudAnalysis)                                                | Data Analysis    | Independent   | ★★★★★        |
+|                | Blank (coming soon)                                                                                              | -           | -        | -       |
+|                | Blank (coming soon)                                                                                              | -           | -        | -       |
 | R              | [Forest Fires Analysis](https://github.com/sarhp/R__ForestFiresAnalysis)                                         | Data Analysis    | Independent   | ★★★★        |
 | SQL (MySQL)    | Blank (coming soon)                                                                                              | -           | -        | -       |
 | Python         | [Enhancing Coupon Recommendation System](https://github.com/sarhp/Python__EnhancingCouponRecommendationSystem)   | Data Science     | Academic      | ★★★★✰        |
