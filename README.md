@@ -8,7 +8,7 @@ My portfolio includes projects I completed as part of my university coursework a
 
 📚 Project library (Repository links are provided for your convenience):
 
-| Tool           | Project Name                                                                                                     | Category        | Project Type | Significance |
+| Tool           | Project Name                                                                                                     | Category        | Project Type | Significance / Relevance|
 |----------------|------------------------------------------------------------------------------------------------------------------|-----------------|--------------|-------------|
 | Power BI       | [Fraud Insights](https://github.com/sarhp/PowerBI__FraudAnalysis)                                                | Data Analysis    | Independent   | ★★★★★        |
 |                | ⚠️ Coming Soon                                                                                              | -           | -        | -       |
