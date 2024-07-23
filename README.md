@@ -6,7 +6,7 @@ My portfolio includes projects I completed as part of your university coursework
 
 <br><br>
 
-📚 Project library (repository links provided):
+📚 Project library (Links are provided for your convenience):
 
 | Tool           | Project Name                                                                                                     | Category        | Project Type | Significance |
 |----------------|------------------------------------------------------------------------------------------------------------------|-----------------|--------------|-------------|
