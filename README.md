@@ -10,8 +10,8 @@ My portfolio includes projects I completed as part of my university coursework a
 
 | Tool           | Project Name                                                                                                     | Category        | Project Type | Significance / Relevance|
 |----------------|------------------------------------------------------------------------------------------------------------------|-----------------|--------------|-------------|
-| Power BI       | [Fraud Insights](https://github.com/sarhp/PowerBI__FraudAnalysis)                                                | Data Analysis    | Independent   | ★★★★★        |
-|                | ⚠️ Coming Soon                                                                                              | -           | -        | -       |
+| Power BI       | [Fraud Insights](https://github.com/sarhp/PowerBI__FraudAnalysis)                                                | Data Analysis   | Independent   | ★★★★★       |
+|                | [Life Expectancy and GDP](https://github.com/sarhp/PowerBI__LifeExpectancyAndGDP)                                | Data Analysis   | Independent   | ★★★★★       |
 |                | ⚠️ Coming Soon                                                                                              | -           | -        | -       |
 | R              | [Forest Fires Analysis](https://github.com/sarhp/R__ForestFiresAnalysis)                                         | Data Analysis    | Independent   | ★★★★        |
 | SQL (MySQL)    | ⚠️ Coming Soon                                                                                              | -           | -        | -       |
