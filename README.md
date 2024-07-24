@@ -13,7 +13,7 @@ My portfolio includes projects I completed as part of my university coursework a
 | Power BI       | [Fraud Insights](https://github.com/sarhp/PowerBI__FraudAnalysis)                                                | Data Analysis   | Unguided   | ★★★★★       |
 |                | [Life Expectancy and GDP](https://github.com/sarhp/PowerBI__LifeExpectancyAndGDP)                                | Data Analysis   | Unguided   | ★★★★★       |
 |                | ⚠️ Coming Soon                                                                                              | -           | -        | -       |
-| R              | [Forest Fires Analysis](https://github.com/sarhp/R__ForestFiresAnalysis)                                         | Data Analysis    | Independent   | ★★★★        |
+| R              | [Forest Fires Analysis](https://github.com/sarhp/R__ForestFiresAnalysis)                                         | Data Analysis    | Guided   | ★★★★        |
 | SQL (MySQL)    | ⚠️ Coming Soon                                                                                              | -           | -        | -       |
 | Python         | [Enhancing Coupon Recommendation System](https://github.com/sarhp/Python__EnhancingCouponRecommendationSystem)   | Data Science     | Academic      | ★★★★✰        |
 |                | [Sentimental Analysis](https://github.com/sarhp/Python__TextMiningProject)                                       | Data/Text Mining      | Academic      | ★★★         |
