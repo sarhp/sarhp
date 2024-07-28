@@ -8,17 +8,16 @@ My portfolio includes projects I completed as part of my university coursework a
 
 📚 Project library (Repository links are provided for your convenience):
 
-| Tool           | Project Name                                                                                                     | Category        | Project Type | Significance / Relevance|
-|----------------|------------------------------------------------------------------------------------------------------------------|-----------------|--------------|-------------|
-| Power BI       | [Fraud Insights](https://github.com/sarhp/PowerBI__FraudAnalysis)                                                | Data Analysis   | Unguided   | ★★★★★       |
-|                | [Life Expectancy and GDP](https://github.com/sarhp/PowerBI__LifeExpectancyAndGDP)                                | Data Analysis   | Unguided   | ★★★★★       |
-| R              | [Forest Fires Analysis](https://github.com/sarhp/R__ForestFiresAnalysis)                                         | Data Analysis    | Guided   | ★★★★        |
-| SQL (MySQL)    | ⚠️ Coming Soon                                                                                              | -           | -        | -       |
-| Python         | [Enhancing Coupon Recommendation System](https://github.com/sarhp/Python__EnhancingCouponRecommendationSystem)   | Data Science     | Academic      | ★★★★★        |
-| Python         | [Data Exploration and Regression Analysis]()                                                                     | Data Analysis     | Academic      | ★★★★★        |
-|                | [Sentimental Analysis](https://github.com/sarhp/Python__TextMiningProject)                                       | Data/Text Mining      | Academic      | ★★★         |
-|                | [Nature Inspired Algorithms](https://github.com/sarhp/Python__NatureInspiredAlgorithms)                          | Algorithm Analysis | Academic    | ★           |
-| Excel          | ⚠️ Coming Soon                                                                                              | -           | -        | -       |
+| Tool           | Project Name                                                                                                     | Category        | Project Type | 
+|----------------|------------------------------------------------------------------------------------------------------------------|-----------------|--------------|
+| Power BI       | [Fraud Insights](https://github.com/sarhp/PowerBI__FraudAnalysis)                                                | Data Analysis   | Unguided   | 
+| Power BI       | [Life Expectancy and GDP](https://github.com/sarhp/PowerBI__LifeExpectancyAndGDP)                                | Data Analysis   | Unguided   | 
+| R              | [Forest Fires Analysis](https://github.com/sarhp/R__ForestFiresAnalysis)                                         | Data Analysis    | Guided   | 
+| SQL (MySQL)    | [Analysing Superstore Data](https://github.com/sarhp/SQL__AnalysingSuperstoreData)                                | Data Analysis   | Guided   | 
+| Python         | [Enhancing Coupon Recommendation System](https://github.com/sarhp/Python__EnhancingCouponRecommendationSystem)   | Data Science     | Academic      | 
+| Python         | [Data Exploration and Regression Analysis]()                                                                     | Data Analysis     | Academic      | 
+| Python         | [Sentimental Analysis](https://github.com/sarhp/Python__TextMiningProject)                                       | Data/Text Mining      | Academic      |
+| Python         | [Nature Inspired Algorithms](https://github.com/sarhp/Python__NatureInspiredAlgorithms)                          | Algorithm Analysis | Academic    | 
 
 <br>
 <br>
