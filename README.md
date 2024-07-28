@@ -2,7 +2,7 @@
 
 I'm Sarah, specialising in Data Analytics. 
 
-My portfolio includes projects I completed as part of my university coursework and those I undertook on my own initiative. 
+My portfolio includes projects I completed as part of my uni coursework and those I undertook on my own initiative. 
 
 <br><br>
 
