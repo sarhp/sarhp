@@ -4,24 +4,21 @@ I'm Sarah, specialising in Data Analytics.
 
 My portfolio includes projects I completed as part of my uni coursework and those I undertook on my own initiative. 
 
-<br><br>
-
-📚 Project library (Repository links are provided for your convenience):
-
-| Tool           | Project Name                                                                                                     | Category        | Project Type | 
-|----------------|------------------------------------------------------------------------------------------------------------------|-----------------|--------------|
-| Power BI       | [Fraud Insights](https://github.com/sarhp/PowerBI__FraudAnalysis)                                                | Data Analysis   | Unguided   | 
-| Power BI       | [Life Expectancy and GDP](https://github.com/sarhp/PowerBI__LifeExpectancyAndGDP)                                | Data Analysis   | Unguided   | 
-| R              | [Forest Fires Analysis](https://github.com/sarhp/R__ForestFiresAnalysis)                                         | Data Analysis    | Guided   | 
-| SQL (MySQL)    | [Analysing Superstore Data](https://github.com/sarhp/SQL__AnalysingSuperstoreData)                                | Data Analysis   | Guided   | 
-| Python         | [Enhancing Coupon Recommendation System](https://github.com/sarhp/Python__EnhancingCouponRecommendationSystem)   | Data Science     | Academic      | 
-| Python         | [Data Exploration and Regression Analysis]()                                                                     | Data Analysis     | Academic      | 
-| Python         | [Sentimental Analysis](https://github.com/sarhp/Python__TextMiningProject)                                       | Data/Text Mining      | Academic      |
-| Python         | [Nature Inspired Algorithms](https://github.com/sarhp/Python__NatureInspiredAlgorithms)                          | Algorithm Analysis | Academic    | 
-
-<br>
 <br>
 
+📚 Project library (Repo links provided):
+
+| Tool           | Project Name                                                                                                     | Category        | 
+|----------------|------------------------------------------------------------------------------------------------------------------|-----------------|
+| Power BI       | [Fraud Insights](https://github.com/sarhp/powerbi-fraud-analysis)                                                | Data Visualisation   | 
+| Power BI       | [Life Expectancy and GDP](https://github.com/sarhp/powerbi-life-expectancy-gdp)                                | Data Visualisation   | 
+| R              | [Forest Fires Analysis](https://github.com/sarhp/r-forest-fires-analysis)                                         | Data Analysis    | 
+| SQL (MySQL)    | [Analysing Superstore Data](https://github.com/sarhp/sql-analyzing-superstore-data)                                | Data Analysis   | 
+| Python         | [Enhancing Coupon Recommendation System](https://github.com/sarhp/python-coupon-recommender)   | Data Science     | 
+| Python         | [Sentimental Analysis](https://github.com/sarhp/python-nlp-text-mining)                                       | Data/Text Mining      | 
+| Python         | [Nature Inspired Algorithms](https://github.com/sarhp/python-nature-inspired-algorithms)                          | Algorithm Eval/Analysis | 
+
+<br>
 
 You can also find me at: 
 
