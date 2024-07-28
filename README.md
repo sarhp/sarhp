@@ -16,7 +16,6 @@ My portfolio includes projects I completed as part of my uni coursework and thos
 | SQL (MySQL)    | [Analysing Superstore Data](https://github.com/sarhp/sql-analyzing-superstore-data)                                | Data Analysis   | 
 | Python         | [Enhancing Coupon Recommendation System](https://github.com/sarhp/python-coupon-recommender)   | Data Science     | 
 | Python         | [Sentiment Analysis](https://github.com/sarhp/python-nlp-text-mining)                                       | Data/Text Mining      | 
-| Python         | [Nature Inspired Algorithms](https://github.com/sarhp/python-nature-inspired-algorithms)                          | Algorithm Eval/Analysis | 
 
 <br>
 
