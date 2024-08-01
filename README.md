@@ -10,12 +10,12 @@ My portfolio includes projects I completed as part of my uni coursework and thos
 
 | Tool           | Project Name                                                                                                     | Category        | 
 |----------------|------------------------------------------------------------------------------------------------------------------|-----------------|
-| Power BI       | [Fraud Insights](https://github.com/sarhp/powerbi-fraud-analysis)                                                | Data Visualisation   | 
-| Power BI       | [Life Expectancy and GDP](https://github.com/sarhp/powerbi-life-expectancy-gdp)                                | Data Visualisation   | 
-| R              | [Forest Fires Analysis](https://github.com/sarhp/r-forest-fires-analysis)                                         | Data Analysis    | 
-| SQL (MySQL)    | [Analysing Superstore Data](https://github.com/sarhp/sql-analyzing-superstore-data/blob/main/SQL_queries_and_output.md)                                | Data Analysis   | 
-| Python         | [Enhancing Coupon Recommendation System](https://github.com/sarhp/python-coupon-recommender)   | Data Science     | 
-| Python         | [Sentiment Analysis](https://github.com/sarhp/python-nlp-text-mining)                                       | Data/Text Mining      | 
+| `Power BI`       | [Fraud Insights](https://github.com/sarhp/powerbi-fraud-analysis)                                                | Data Visualisation   | 
+| `Power BI`       | [Life Expectancy and GDP](https://github.com/sarhp/powerbi-life-expectancy-gdp)                                | Data Visualisation   | 
+| `R`              | [Forest Fires Analysis](https://github.com/sarhp/r-forest-fires-analysis)                                         | Data Analysis    | 
+| `SQL (MySQL)`    | [Analysing Superstore Data](https://github.com/sarhp/sql-analyzing-superstore-data/blob/main/SQL_queries_and_output.md)                                | Data Analysis   | 
+| `Python`         | [Enhancing Coupon Recommendation System](https://github.com/sarhp/python-coupon-recommender)   | Data Science     | 
+| `Python`         | [Sentiment Analysis](https://github.com/sarhp/python-nlp-text-mining)                                       | Data/Text Mining      | 
 
 <br>
 
